@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #4E4E4E;
+	color: #FFFFFF;
+}
+
+header{
+	border-bottom: 1px solid white;
+}
+
+#logo{
+	text-align: center;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+
+article{
+	margin: 0 auto;
+	padding: 2px;
+	width: 60%;
+}
+
+article h2{
+	text-align: center;
+}
